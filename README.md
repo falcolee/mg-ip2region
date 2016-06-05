@@ -1,4 +1,4 @@
-# yii2-ip2region
+# mg-ip2region
 ip2region extension for yii2
 
 Help you to retrieve Chinese geolocation information in 0.0x ms
@@ -11,13 +11,13 @@ Help you to retrieve Chinese geolocation information in 0.0x ms
 To install, either run
 
 ```
-$ php composer.phar require xiaogouxo/yii2-ip2region "*"
+$ php composer.phar require xiaogouxo/mg-ip2region "*"
 ```
 
 or add
 
 ```
-"xiaogouxo/yii2-ip2region": "*"
+"xiaogouxo/mg-ip2region": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
