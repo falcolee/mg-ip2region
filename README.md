@@ -67,7 +67,7 @@ Inspired by yii2-IP2Location and ip2region.
     		...
 	        'ip2region' => [
 	            'class' => '\xiaogouxo\ip2region\Geolocation',
-	            'database' => dirname(dirname(__DIR__)).DIRECTORY_SEPARATOR.'vendor'.DIRECTORY_SEPARATOR.'xiaogouxo'.DIRECTORY_SEPARATOR.'yii2-ip2region'.DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'ip2region.db',
+	            'database' => dirname(dirname(__DIR__)).DIRECTORY_SEPARATOR.'vendor'.DIRECTORY_SEPARATOR.'xiaogouxo'.DIRECTORY_SEPARATOR.'mg-ip2region'.DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'ip2region.db',
 	            'mode' => 'SEARCH_BTREE',
 	        ]
     		...
